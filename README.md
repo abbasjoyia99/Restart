@@ -2,8 +2,6 @@
 The main goal of this mini project is to inspire you on what we can accomplish with the SwiftUI framework.
 
 
-
-
 # Topic Covered in this mini project
 1-VSTACk\
 2-HSTACK\

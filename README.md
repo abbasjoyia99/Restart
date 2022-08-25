@@ -1,6 +1,7 @@
 # Restart
 The main goal of this mini project is to inspire you on what we can accomplish with the SwiftUI framework.
-![Uploading Screenshot 2022-08-25 at 12.50.22 PM.png…]()
+<img width="1263" alt="Screenshot 2022-08-25 at 12 50 22 PM" src="https://user-images.githubusercontent.com/27265918/186633935-c5cefa9c-307c-4c9e-9da3-fe70c4be0dac.png">
+
 
 # Topic Covered in this mini project
 1-VSTACk\
